@@ -30,9 +30,9 @@ Pull Requests allow you to share your own code with us, and we can merge it into
 
 1) Fork the repo.
 
-2) Clone the repo by running 
+2) Clone the repo **you forked** by running 
 ```sh
-$ git clone https://github.com/KingPixil/wing.git
+$ git clone https://github.com/YOUR-USERNAME-HERE/wing.git
 ```
 
 3) Install node.js if you haven't already, and run `npm install`. This installs the required dependencies for building Wing.
@@ -49,11 +49,11 @@ Have you found a solution to an issue? Here is how you can submit your code to W
 
 1) Fork the repo, and refer above for how to change up code.
 
-1) Head to your local fork of the repo, and click the "New Pull Request" button.
+2) Head to your local fork of the repo, and click the "New Pull Request" button.
 
-2) Include a title that is straight to the point.
+3) Include a title that is straight to the point.
 
-3) Wait for someone to review the pull request, and then merge your pull request!
+4) Wait for someone to review the pull request, and then merge your pull request!
 
 
 
